@@ -4,11 +4,12 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #313131;
 }
 
 main {
-  border: 2px solid black;
-  width: 1200px;
+  border: 2px solid orange;
+  width: 1600px;
   height: 80vh;
   display: flex;
   flex-direction: column;
@@ -17,16 +18,28 @@ main {
 }
 
 main div {
-  border: 1px solid red;
-  background: #313131;
-  width: 1000px;
+  width: 1200px;
   height: 300px;
+  background: #313131;
+  color: white;
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 1px solid white;
+  padding: 8px;
 }
 
 main span {
-  color: white;
   font-size: 8rem;
+  text-align: center;
+  overflow-wrap: anywhere;
+  font-family: Consolas, Monaco, Lucida Console, monospace;
+}
+
+main h1 {
+  color: white;
+}
+
+footer {
+  color: white;
 }
