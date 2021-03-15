@@ -1,0 +1,32 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  border: 2px solid black;
+  width: 1200px;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main div {
+  border: 1px solid red;
+  background: #313131;
+  width: 1000px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main span {
+  color: white;
+  font-size: 8rem;
+}
