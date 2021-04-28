@@ -1,0 +1,32 @@
+Preface: Real Talk
+The code will always be the easiest part of a coding career.
+The more I talked to my friends about their careers, and the more I
+progressed in my own career, I increasingly realized that the noncode part of coding was both a hugely important, and under-discussed, topic. It is under-discussed because nobody else is as invested in your career as you are.
+And so the idea for this book was born.
+There are a lot of books teaching you specifics of frameworks and
+languages. There are a lot of books on quitting your job to do your
+own thing. There are a lot of books on becoming an engineering
+manager. This book is none of those. This is a book about getting coding jobs, and doing well at coding jobs.
+That is an ambitious goal, which presents its own problems. It’s
+scary writing a career advice book - I’m just one person, and I
+haven’t made a career of coaching developers. I can’t guarantee success, and you can’t verify that everything I tell you is right. All I have
+is hundreds of hours of listening to people’s stories, and living my
+own. I have biases that make my situation different from yours - Iam a US-based, Asian male web developer, seeing decent success after career change at age 30.
+But I think the bar is very low. I’ve met with developer career success advisors and read conventional career advice. You deserve a
+more intelligent discussion than fits in a 15 minute YouTube video or
+yet another Medium blog post. That’s why this is NOT going to be a
+conventional career advice book.
+This is a linear discussion of Career Guides, followed by a nonlinear
+collection of Principles, Strategies, and Tactics - independent
+essays of ideas that you may or may not agree with, but are worth
+considering anyway. Please skim and skip. This book is a buffet, not
+a five course meal. You will see some repeated ideas, because the
+ideas are strongly interlinked. Unfortunately we can’t normalize
+this; this book isn’t a relational database!
+I have designed this book to last. A typical Code Newbie to Senior
+Developer journey might take 4-8 years. I want you to discover the
+full context of everything I’ve researched, with me as a guide rather
+than omniscient narrator. I’ve embraced the digital format, and
+made heavy use of links to original sources. Feel free to pause
+at any chapter, go down those rabbit holes I lay out for you, and see
+for yourself. Don’t try to read this book in one sitting.
